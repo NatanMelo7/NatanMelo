@@ -1,0 +1,43 @@
+.container {
+	margin: auto;
+    max-width: 800px;
+    border-style: ridge;
+    padding-left: 27px;
+}
+
+.container h1 {
+	font-family: Segoe UI Light;
+	font-size: 30pt;
+}
+
+.button-pageLanding a img {
+	text-align: right;
+	cursor: pointer;
+}
+
+.textArea{
+	margin: 20px;
+    padding: 20px;
+    width: 680px;
+    height: 500px;
+    font-family: Segoe UI Light; 
+    font-size: x-large;
+    resize: none;
+	
+}
+
+.quote-container .textArea {
+	margin-left: 0px;
+}
+
+.button-pageLanding {
+	border: none;
+    cursor: pointer;
+    background-color: #ffffff00;
+    margin-top: 20px;
+    padding: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: 70px;
+}
+
